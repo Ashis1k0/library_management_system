@@ -29,9 +29,11 @@ The Library Management System is a console-based application built using C++ tha
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
+
 2. Navigate to the project directory:
   ```bash
 cd library_management_system
+
 3. Run the program:
    ```bash
 ./library_system
