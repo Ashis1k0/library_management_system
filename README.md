@@ -25,8 +25,18 @@ The Library Management System is a console-based application built using C++ tha
   - View detailed information about books, including the number of available copies.
 
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/Ashis1k0/library_management_system
+```
 
+
+
+🧑‍💻 Author
+Ashis Moharana
+🔗 GitHub Profile
+💼 Passionate about full-stack development & system design
+
+💖 Show Some Love
+If you found this project helpful, consider giving it a ⭐ on GitHub and feel free to fork and contribute!
 
